@@ -1,0 +1,85 @@
+body {
+    background-color: darkslategrey ;
+  }
+  
+  h1 {
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border: 1px solid black;
+    padding-left: auto;
+    padding-right: auto;
+  }
+
+  h2 {
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border: 1px solid #bbb;
+    padding-left: auto;
+    padding-right: auto;
+    text-align: center;
+  }
+
+  .banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: #bbb;
+    background-color: #333;
+  }
+
+  .sig{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: #bbb;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    background-color: #333;
+    padding-left: auto;
+    padding-right: auto;
+    text-align: center;
+    margin-left: 350px;
+    color: #bbb;
+  }
+
+  ul {
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 150px;
+    padding-right: auto;
+    overflow: hidden;
+    background-color: #333;
+    width: 600px;
+    border: 1px solid #bbb;
+
+  }
+  
+  li {
+    float: left;
+    width: 150px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+    border-left: 1px solid #bbb;
+    margin-left: 10px;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
