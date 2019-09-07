@@ -1,0 +1,142 @@
+{
+	"ID": 42911,
+	"name": "Torn City Mercs",
+	"leader": 2234168,
+	"co-leader": 2251830,
+	"respect": 8605,
+	"age": 142,
+	"best_chain": 10,
+	"wars": {},
+	"members": {
+		"1780079": {
+			"name": "ShammyTheKid",
+			"days_in_faction": 12,
+			"last_action": "13 minutes ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2114675": {
+			"name": "TheSphinx16",
+			"days_in_faction": 9,
+			"last_action": "13 hours ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2234168": {
+			"name": "DefiledPig93",
+			"days_in_faction": 141,
+			"last_action": "0 minutes ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2251830": {
+			"name": "Xxxshivxxx",
+			"days_in_faction": 135,
+			"last_action": "3 hours ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2271963": {
+			"name": "Bodowntown",
+			"days_in_faction": 4,
+			"last_action": "0 minutes ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2324807": {
+			"name": "Hugh_Dick",
+			"days_in_faction": 31,
+			"last_action": "18 hours ago",
+			"status": [
+				"In federal jail for 7 days",
+				"Multiple Accounts"
+			]
+		},
+		"2328279": {
+			"name": "RunnerManMark",
+			"days_in_faction": 73,
+			"last_action": "1 hour ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2329574": {
+			"name": "Deege",
+			"days_in_faction": 72,
+			"last_action": "16 hours ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2330094": {
+			"name": "GoinHanSolo",
+			"days_in_faction": 72,
+			"last_action": "52 minutes ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2330104": {
+			"name": "JuicyJugz",
+			"days_in_faction": 72,
+			"last_action": "3 hours ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2354632": {
+			"name": "DesertScorpion",
+			"days_in_faction": 29,
+			"last_action": "6 hours ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2360097": {
+			"name": "Mr_Attack36",
+			"days_in_faction": 15,
+			"last_action": "3 days ago",
+			"status": [
+				"In hospital for 3 hrs 9 mins ",
+				"Hospitalized by iNavi"
+			]
+		},
+		"2360361": {
+			"name": "Legionzz01",
+			"days_in_faction": 17,
+			"last_action": "52 minutes ago",
+			"status": [
+				"Okay",
+				""
+			]
+		},
+		"2361632": {
+			"name": "Ashtomates",
+			"days_in_faction": 12,
+			"last_action": "7 hours ago",
+			"status": [
+				"Okay",
+				""
+			]
+		}
+	},
+	"peace": {
+		"41916": 1591275375,
+		"42941": 1591135022
+	}
+}
