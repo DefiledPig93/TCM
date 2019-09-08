@@ -38,6 +38,7 @@ body {
     margin-right: auto;
     width: 50%;
     color: #bbb;
+    border: 1px solid white;
   }
 
   table, th, td {
