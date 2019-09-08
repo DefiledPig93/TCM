@@ -44,6 +44,17 @@ body {
   .sig1{
     display: block;
     margin-left: 260px;
+    margin-top: 5px;
+    width: 350px;
+    hight: 19px;
+    color: #bbb;
+    border: 1px solid white;
+  }
+
+  .sig2{
+    display: block;
+    margin-right: 260px;
+    margin-top: 5px;
     width: 350px;
     hight: 19px;
     color: #bbb;
